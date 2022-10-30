@@ -2,12 +2,6 @@
 
 This is a tutorial to explain how to compile ros2 on MacOS. Here we will use `foxy` version as an example and it should work with other version with minor revison.
 
-Note that this work acknowledges the previous blogs and tutorials. Here are the references:
-
-1. [Apple silicon MacOS(Monterey) M1 build with ros2 galactic](https://github.com/dpbnasika/ros2) [[Youtube](https://www.youtube.com/watch?v=A7O1k2A_0iA)]
-2. Kliment Mamykin [Blog](http://mamykin.com/posts/building-ros2-on-macos-big-sur-m1/)
-3. ros2 official [github](https://github.com/ros2/ros2/issues/1148) issue MacOS build from source in ROS2 Galatic
-
 Environment: 
 
 MacOS Version  | MacOS Monterey v12.5.1
@@ -332,3 +326,11 @@ In terminal 3:
 `rviz2`
 
 ![MacDown Screenshot](test.png)
+
+***
+
+Note that this work acknowledges the previous blogs and tutorials. Here are the references:
+
+1. [Apple silicon MacOS(Monterey) M1 build with ros2 galactic](https://github.com/dpbnasika/ros2) [[Youtube](https://www.youtube.com/watch?v=A7O1k2A_0iA)]
+2. Kliment Mamykin [Blog](http://mamykin.com/posts/building-ros2-on-macos-big-sur-m1/)
+3. ros2 official [github](https://github.com/ros2/ros2/issues/1148) issue MacOS build from source in ROS2 Galatic
