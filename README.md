@@ -108,6 +108,7 @@ python3 -m pip install pytest
 
 python3 -m pip install em
 
+python3 -m pip install netifaces
 
 # install bullet
 
