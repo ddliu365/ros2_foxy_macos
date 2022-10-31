@@ -110,6 +110,12 @@ python3 -m pip install em
 
 python3 -m pip install netifaces
 
+sudo -H pip3 install -U defusedxml empy pycryptodome
+
+sudo -H pip3 install -U wxPython
+
+sudo -H pip3 install -U wstool rosdep rosinstall rosinstall_generator rospkg catkin-pkg
+
 # install bullet
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
